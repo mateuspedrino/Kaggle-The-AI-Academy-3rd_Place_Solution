@@ -6,3 +6,6 @@ Notebooks:
 - exploratory_analysis : some baby exploratory analysis just to understand a bit of the data dynamics;
 - models : train and tune several models and pickle them;
 - trained_classifiers : use the trained and tuned pickled models.
+
+
+The pdf in this repository is the portuguese version of our presentation in the Kaggle presential competition day.
